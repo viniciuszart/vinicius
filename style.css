@@ -6,10 +6,10 @@ body {
   padding: 20px;
 }
 h1{
-color:#543
+color:#333;
 }
 p{
-  color: #836;
+  color: #666;
 }
 /* estilos para a classe .destaque */
 .destaque{
